@@ -29,10 +29,12 @@ const NAMESPACES = [
   'blog',
   'translator',
   'metadata',
+  'faq',
   'practiceLanding',
   'welcome',
   'experiments',
   'legal',
+  'kanaChart',
 ];
 
 let hasErrors = false;
